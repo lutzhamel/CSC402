@@ -2,6 +2,7 @@
 Lecture notes for 'Programming Language Implementation' course at the University of Rhode Island
 
 <a href="notes/csc402-ln001.pdf">Programming Languages and their Processors</a><br>
+<!--
 <a href="notes/csc402-ln002.pdf">Grammars and Parsers (Part 1)</a><br>
 <a href="notes/csc402-ln003.pdf">Grammars and Parsers (Part 2)</a><br>
 <a href="notes/csc402-ln004.pdf">Lexical Analysis</a><br>
@@ -19,7 +20,7 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln016.pdf">Higher-order programming</a><br>
 <a href="notes/csc402-ln017.pdf">Type systems (Part 1)</a><br>
 <a href="notes/csc402-ln018.pdf">Type systems (Part 2)</a><br>
-
+-->
 <!--
 <a href="csc402-ln005.pdf">Another Look at Grammars</a><br>
 <a href="csc402-ln006.pdf">Program Analysis and IR (Part 1)</a> - the bytecode interpreter
