@@ -3,8 +3,8 @@ Lecture notes for 'Programming Language Implementation' course at the University
 
 <a href="notes/csc402-ln001.pdf">Programming Languages and their Processors</a><br>
 <a href="notes/csc402-ln002.pdf">Grammars and Parsers</a><br>
-<!--
 <a href="notes/csc402-ln004.pdf">Lexical Analysis</a><br>
+<!--
 <a href="notes/csc402-ln005.pdf">Intermediate Representations (IR)</a><br>
 <a href="notes/csc402-ln006.pdf">Abstract Syntax Trees, Tree Walking, and Interpretation</a><br>
 <a href="notes/csc402-ln007.pdf">A Basic Compiler</a><br>
