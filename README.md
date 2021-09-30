@@ -7,8 +7,8 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln004a.pdf">Syntax-Directed Interpretation</a><br>
 <a href="notes/csc402-ln005.pdf">Intermediate Representations (IR)</a><br>
 <a href="notes/csc402-ln006.pdf">Abstract Syntax Trees</a><br>
-<!--
 <a href="notes/csc402-ln006a.pdf">Tree Walking and Interpretation</a><br>
+<!--
 <a href="notes/csc402-ln007.pdf">A Basic Compiler</a><br>
 <a href="notes/csc402-ln008.pdf">An Optimizing Compiler</a><br>
 <a href="notes/csc402-ln009.pdf">Language Implementation Review</a><br>
