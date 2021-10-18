@@ -9,8 +9,9 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln006.pdf">Abstract Syntax Trees</a><br>
 <a href="notes/csc402-ln006a.pdf">Tree Walking and Interpretation</a><br>
 <a href="notes/csc402-ln007.pdf">A Basic Compiler</a><br>
-<!--
+<a href="notes/csc402-ln008.pdf">An Optimizing Compiler</a><br>
 <a href="notes/csc402-ln010.pdf">Scope & Symbol Table</a><br>
+<!--
 <a href="notes/csc402-ln011.pdf">Compiling Scoped Code</a><br>
 <a href="notes/csc402-ln012.pdf">Functions I</a><br>
 <a href="notes/csc402-ln013.pdf">Functions II</a><br>
@@ -19,6 +20,8 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln016.pdf">Higher-order programming</a><br>
 <a href="notes/csc402-ln017.pdf">Type systems (Part 1)</a><br>
 <a href="notes/csc402-ln018.pdf">Type systems (Part 2)</a><br>
+<a href="csc402-ln023.pdf">Structured data types (Part 1)</a><br>
+<a href="csc402-ln024.pdf">Structured data types (Part 2)</a><br>
 -->
 <!--
 <a href="csc402-ln005.pdf">Another Look at Grammars</a><br>
