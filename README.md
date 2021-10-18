@@ -12,18 +12,16 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln008.pdf">An Optimizing Compiler</a><br>
 <a href="notes/csc402-ln010.pdf">Scope & Symbol Table</a><br>
 <!--
-<a href="notes/csc402-ln011.pdf">Compiling Scoped Code</a><br>
 <a href="notes/csc402-ln012.pdf">Functions I</a><br>
 <a href="notes/csc402-ln013.pdf">Functions II</a><br>
-<a href="notes/csc402-ln014.pdf">Function Calls on Real and Virtual Machines</a><br>
-<a href="notes/csc402-ln015.pdf">Compiling functions into our Bytecode</a><br>
-<a href="notes/csc402-ln016.pdf">Higher-order programming</a><br>
 <a href="notes/csc402-ln017.pdf">Type systems (Part 1)</a><br>
 <a href="notes/csc402-ln018.pdf">Type systems (Part 2)</a><br>
 <a href="csc402-ln023.pdf">Structured data types (Part 1)</a><br>
 <a href="csc402-ln024.pdf">Structured data types (Part 2)</a><br>
+<a href="csc402-ln024.pdf">Parser Generators</a><br>
 -->
 <!--
+<a href="notes/csc402-ln016.pdf">Higher-order programming</a><br>
 <a href="csc402-ln005.pdf">Another Look at Grammars</a><br>
 <a href="csc402-ln006.pdf">Program Analysis and IR (Part 1)</a> - the bytecode interpreter
 discussed in the slides is available <a href="../specs/EXP1BYTECODE.zip">here</a><br>
