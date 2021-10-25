@@ -10,10 +10,10 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln006a.pdf">Tree Walking and Interpretation</a><br>
 <a href="notes/csc402-ln007.pdf">A Basic Compiler</a><br>
 <a href="notes/csc402-ln008.pdf">An Optimizing Compiler</a><br>
-<a href="notes/csc402-ln010.pdf">Scope & Symbol Table</a><br>
-<!--
+<a href="notes/csc402-ln010.pdf">Scope & Symbol Tables</a><br>
 <a href="notes/csc402-ln012.pdf">Functions I</a><br>
 <a href="notes/csc402-ln013.pdf">Functions II</a><br>
+<!--
 <a href="notes/csc402-ln017.pdf">Type systems (Part 1)</a><br>
 <a href="notes/csc402-ln018.pdf">Type systems (Part 2)</a><br>
 <a href="csc402-ln023.pdf">Structured data types (Part 1)</a><br>
