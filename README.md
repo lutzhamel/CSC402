@@ -14,8 +14,8 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln012.pdf">Functions I</a><br>
 <a href="notes/csc402-ln013.pdf">Functions II</a><br>
 <a href="notes/csc402-ln017.pdf">Type systems I</a><br>
-<!--
 <a href="notes/csc402-ln018.pdf">Type systems II</a><br>
+<!--
 <a href="csc402-ln023.pdf">Structured data types (Part 1)</a><br>
 <a href="csc402-ln024.pdf">Structured data types (Part 2)</a><br>
 <a href="csc402-ln024.pdf">Parser Generators</a><br>
