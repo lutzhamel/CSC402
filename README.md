@@ -15,15 +15,10 @@ Lecture notes for 'Programming Language Implementation' course at the University
 <a href="notes/csc402-ln013.pdf">Functions II</a><br>
 <a href="notes/csc402-ln017.pdf">Type systems I</a><br>
 <a href="notes/csc402-ln018.pdf">Type systems II</a><br>
-<!--
-<a href="csc402-ln023.pdf">Structured data types (Part 1)</a><br>
-<a href="csc402-ln024.pdf">Structured data types (Part 2)</a><br>
-<a href="csc402-ln024.pdf">Parser Generators</a><br>
--->
-<!--
-<a href="notes/csc402-ln016.pdf">Higher-order programming</a><br>
-A <a href="csc402-ln028.pdf">Summary</a> of the languages we studied.<br>
--->
+<a href="notes/csc402-ln019.pdf">Structured Data Types - Arrays I</a><br>
+<a href="notes/csc402-ln020.pdf">Structured Data Types - Arrays II</a><br>
+<a href="notes/csc402-ln021.pdf">Parser Generators</a><br>
+<a href="notes/csc402-ln022.pdf">Language Onthology</a><br>
 
 
 These lecture notes are released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode)
