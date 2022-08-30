@@ -5,6 +5,8 @@
 
 # Programming Language Implementation
 
+[Syllabus](docs/syllabus.pdf)
+
 <a href="notes/csc402-ln001.pdf">Programming Languages and their Processors</a><br>
 <a href="notes/csc402-ln002.pdf">Grammars and Parsers</a><br>
 <a href="notes/csc402-ln004.pdf">Lexical Analysis</a><br>
